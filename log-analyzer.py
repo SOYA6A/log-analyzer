@@ -43,12 +43,12 @@ def analyser_logs(fichier_log):
     print("Top 10 des IPs les plus actives :\n")
     for i, (ip, count) in enumerate(ips_triees[:10], 1):
         # Si plus de 5 requêtes, marquer comme suspect
-        suspect = "⚠️ SUSPECT" if count > 5 else ""
-        print(f"{i}. {ip} - {count} requêtes {suspect}")
-    
+      suspect = "⚠️ SUSPECT" if count >= 5 else "" 
+     print(f"{i}. {ip} - {count} requêtes {suspect}")
+  
     # Détecter les IPs suspectes (plus de 5 requêtes)
     print("\n=== IPs SUSPECTES DÉTECTÉES ===\n")
-    ips_suspectes = [ip for ip, count in compteur_ips.items() if count > 5]
+    ips_suspectes = [ip for ip, count in compteur_ips.items() if count >=  5]
     
     if ips_suspectes:
         for ip in ips_suspectes:
