@@ -9,7 +9,10 @@ En apprenant la cybersécurité, j'ai découvert que l'analyse de logs est une t
 Le programme analyse un fichier de logs et :
 
 Extrait toutes les adresses IP présentes
+
 Compte combien de fois chaque IP apparaît
+
 Affiche les 10 IPs les plus actives
+
 Détecte les IPs suspectes (plus de 5 requêtes = potentiel brute force ou scan)
 
