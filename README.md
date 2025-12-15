@@ -15,7 +15,7 @@ Détecte les IPs suspectes (plus de 5 requêtes = potentiel brute force ou scan)
 
 
 ## Installation
-# bashgit clone https://github.com/SOYA6A/log-analyzer.git
-# cd log-analyzer
-# python log_analyzer.py
-# Pas de bibliothèques externes nécessaires, j'utilise juste les modules Python de base (re pour les expressions régulières).
+# 1 bashgit clone https://github.com/SOYA6A/log-analyzer.git
+# 2 cd log-analyzer
+# 3 python log_analyzer.py
+# 4 Pas de bibliothèques externes nécessaires, j'utilise juste les modules Python de base (re pour les expressions régulières).
