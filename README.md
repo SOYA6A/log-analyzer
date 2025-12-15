@@ -14,7 +14,7 @@ Affiche les 10 IPs les plus actives.
 Détecte les IPs suspectes (plus de 5 requêtes = potentiel brute force ou scan).
 
 
-##🛠️ Installation
+## 🛠️ Installation
 ```bash
 # 1. bashgit clone https://github.com/SOYA6A/log-analyzer.git
 # 2. cd log-analyzer
