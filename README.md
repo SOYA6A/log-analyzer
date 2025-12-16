@@ -6,10 +6,14 @@ Un petit programme Python qui analyse des fichiers de logs pour détecter les ad
 En apprenant la cybersécurité, j'ai découvert que l'analyse de logs est une tâche quotidienne pour les analystes SOC. J'ai voulu créer un outil simple pour comprendre comment détecter des activités suspectes dans des fichiers de logs.
 
 
-Le programme analyse un fichier de logs et extrait toutes les adresses IP présentes 
-Compte combien de fois chaque IP apparaît.
-Affiche les 10 IPs les plus actives.
-Détecte les IPs suspectes (plus de 5 requêtes = potentiel brute force ou scan).
+## Comment ça marche ?
+
+Le programme utilise des expressions régulières (regex) pour trouver les adresses IP dans chaque ligne du fichier. Ensuite, il compte les occurrences avec un dictionnaire Python et trie les résultats pour afficher les IPs les plus actives.
+
+Une IP est considérée comme suspecte si elle apparaît 5 fois ou plus, ce qui peut indiquer :
+- Une tentative de brute force (connexions répétées)
+- Un scan de ports
+- Une activité anormale
 
 
 ## 🛠️ Installation
