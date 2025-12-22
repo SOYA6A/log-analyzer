@@ -34,7 +34,6 @@ Le programme demande le nom du fichier de logs à analyser.
 ```
 Entrez le nom du fichier de logs : access.log
 
-=== ANALYSE DES LOGS ===
 
 
 
