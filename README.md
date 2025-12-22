@@ -36,9 +36,6 @@ Entrez le nom du fichier de logs : access.log
 
 === ANALYSE DES LOGS ===
 
-Total de lignes analysées : 13
-
-Top 10 des IPs les plus actives :
 
 
 
