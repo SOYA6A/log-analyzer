@@ -45,9 +45,6 @@ Top 10 des IPs les plus actives :
 3. 198.51.100.42 - 3 requêtes
 4. 45.123.67.89 - 2 requêtes
 
-=== IPS SUSPECTES DÉTECTÉES ===
 
-🚨 203.0.113.5 : 5 tentatives (possibles attaque)
-```
 
 <img width="1612" height="724" alt="image" src="https://github.com/user-attachments/assets/b8cd966f-e47f-4162-8051-0c05fe6d5b3a" />
