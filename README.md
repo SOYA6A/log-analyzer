@@ -31,8 +31,7 @@ python3 log-analyzer.py
 Le programme demande le nom du fichier de logs à analyser.
 
 ### Exemple avec le fichier de test
-```
-Entrez le nom du fichier de logs : access.log
+
 
 
 
