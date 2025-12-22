@@ -42,8 +42,6 @@ Top 10 des IPs les plus actives :
 
 1. 203.0.113.5 - 5 requêtes ⚠️ SUSPECT
 2. 192.168.1.10 - 3 requêtes
-3. 198.51.100.42 - 3 requêtes
-4. 45.123.67.89 - 2 requêtes
 
 
 
