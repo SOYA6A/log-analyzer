@@ -40,8 +40,7 @@ Total de lignes analysées : 13
 
 Top 10 des IPs les plus actives :
 
-1. 203.0.113.5 - 5 requêtes ⚠️ SUSPECT
-2. 192.168.1.10 - 3 requêtes
+
 
 
 
