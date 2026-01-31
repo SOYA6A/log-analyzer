@@ -35,8 +35,4 @@ Le programme demande le nom du fichier de logs à analyser.
 
 
 
-
-
-
-
 <img width="1612" height="724" alt="image" src="https://github.com/user-attachments/assets/b8cd966f-e47f-4162-8051-0c05fe6d5b3a" />
