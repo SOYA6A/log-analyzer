@@ -6,7 +6,7 @@ Un petit programme Python qui analyse des fichiers de logs pour détecter les ad
 En apprenant la cybersécurité, j'ai découvert que l'analyse de logs est une tâche quotidienne pour les analystes SOC. J'ai voulu créer un outil simple pour comprendre comment détecter des activités suspectes dans des fichiers de logs.
 
 
-## Comment ça marche ?
+## Comment
 
 Le programme utilise des expressions régulières (regex) pour trouver les adresses IP dans chaque ligne du fichier. Ensuite, il compte les occurrences avec un dictionnaire Python et trie les résultats pour afficher les IPs les plus actives.
 
